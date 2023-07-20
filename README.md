@@ -11,3 +11,5 @@ When writing code, it’s considered best practice to commit early and often. Co
 After you have entered git push origin main, switch over to your browser and open your repository on GitHub. You should now see all the files you just pushed.
 
 Okay, that’s enough Git for the moment – time to actually build stuff!
+
+In this project, I've demonstrated use of links, images, lists (ordered and unordered)
